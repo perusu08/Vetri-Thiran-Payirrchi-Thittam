@@ -1,0 +1,4 @@
+test_id,quantity,expected_short_description,expected_group
+TC01,1,Laptop needs to be configured,Hardware
+TC02,1,Laptop needs to be configured,Hardware
+TC03,2,Laptop needs to be configured,Hardware
